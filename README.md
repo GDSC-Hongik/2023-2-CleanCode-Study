@@ -1,5 +1,6 @@
 # 2023-2-CleanCode-Study
 [클린 코드 Clean Code - 애자일 소프트웨어 장인 정신]을 읽고 공부하는 스터디입니다.
+
 *해당 스터디는 [우아한스터디 2023 - 쏙쏙 들어오는 함수형 코딩](https://www.youtube.com/watch?v=vub_peyogJY)의 진행방식을 참고하였습니다.
 
 ## 스터디 방법
